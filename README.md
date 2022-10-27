@@ -1,6 +1,6 @@
 # Bash script that sends a message to the telegram bot after the transmission finishes downloading a torrent.
 
-Instructions:
+<b><h2>Instructions:</h2></b>
 Put the script in a folder at your choice
 
 Stop tansmission-deamon service
@@ -25,9 +25,5 @@ sudo service transmission-daemon start
 
 Note: Those variables are inherited from Transmission
 
-TR_APP_VERSION
 TR_TIME_LOCALTIME
-TR_TORRENT_DIR
-TR_TORRENT_HASH
-TR_TORRENT_ID
 TR_TORRENT_NAME
